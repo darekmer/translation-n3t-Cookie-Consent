@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension method="upgrade" type="file" version="3">
+
+  <name>System - n3t Cookie Consent język polski</name>
+  <creationDate>2023-01-13</creationDate>
+	<author>darekmer</author>
+	<authorEmail>darekmer@gmail.com</authorEmail>
+	<authorUrl>https://github.com/darekmer</authorUrl>
+	<copyright>Copyright (c)2023</copyright>
+  <description>Polskie tłumaczenie do wtyczki n3t Cookie Consent</description>
+  <version>4.1.5</version>
+
+  <fileset>
+  <files folder="administrator" target="administrator/language/pl-PL/">
+      <file>pl-PL.plg_system_n3tcookieconsent.ini</file>
+      <file>pl-PL.plg_system_n3tcookieconsent.data.ini</file>
+      <file>pl-PL.plg_system_n3tcookieconsent.sys.ini</file>
+  </files>
+  </fileset>
+</extension>
