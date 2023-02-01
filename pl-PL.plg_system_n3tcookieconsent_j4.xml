@@ -8,7 +8,7 @@
 	<authorUrl>https://github.com/darekmer</authorUrl>
 	<copyright>Copyright (c)2023</copyright>
   <description>Polskie tłumaczenie do wtyczki n3t Cookie Consent</description>
-  <version>4.1.5</version>
+  <version>4.1.5.2</version>
 
   <fileset>
   <files folder="administrator" target="administrator/language/pl-PL/">
